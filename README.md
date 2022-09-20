@@ -14,4 +14,4 @@ Desafio do site Frontend Mentor, que consiste em criar uma landing page a partir
 - Utilizar melhor as ferramentas de flex box e grid. 
 - Criar melhores nomes para classes
 - Como usar tags semânticas 
-- Uso de divs de forma mais consciente 
+- Usar de divs de forma mais consciente 
